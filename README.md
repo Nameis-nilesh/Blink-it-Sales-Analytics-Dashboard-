@@ -28,6 +28,9 @@ This project provides a consolidated view of Blinkit's retail performance, helpi
 
 ![Blinkit Sales Analytics Dashboard](dashboard.png)
 
+<img width="1216" height="727" alt="image" src="https://github.com/user-attachments/assets/1ca7ae86-c47c-47f9-a990-e8d3add35014" />
+
+
 ## Tools and Skills Used
 
 - **Power BI Desktop** - Data modeling, DAX measures, interactive report design, and visualization.
